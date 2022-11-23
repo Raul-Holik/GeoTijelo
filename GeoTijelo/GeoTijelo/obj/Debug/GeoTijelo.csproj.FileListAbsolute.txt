@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\GeoTijelo\GeoTijelo\bin\Debug\GeoTijelo.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\GeoTijelo\GeoTijelo\bin\Debug\GeoTijelo.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\GeoTijelo\GeoTijelo\bin\Debug\GeoTijelo.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\GeoTijelo\GeoTijelo\obj\Debug\GeoTijelo.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\GeoTijelo\GeoTijelo\obj\Debug\GeoTijelo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\GeoTijelo\GeoTijelo\obj\Debug\GeoTijelo.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\GeoTijelo\GeoTijelo\obj\Debug\GeoTijelo.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\GeoTijelo\GeoTijelo\obj\Debug\GeoTijelo.pdb
